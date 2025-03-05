@@ -1,4 +1,5 @@
-# Data Science Portfolio 🎯
+# Yvette Afriyie 
+# Data Scientist
 
 ## About Me 👋
 Hello! I'm a data analyst passionate about turning raw data into actionable insights. I have experience in **SQL, R, Python, Tableau, Alteryx, and AWS**, and I’m constantly learning to refine my analytical and problem-solving skills.  

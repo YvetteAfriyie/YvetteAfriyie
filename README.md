@@ -18,10 +18,11 @@ I'm actively seeking **data analyst opportunities**, so feel free to explore my 
 
 ## 🚀 Projects
 
-### **1. SQL - E-commerce Sales Analysis**  
-📌 **Skills:** SQL | Joins | CTEs | Window Functions | Aggregate Functions  
-🔹 Analyzed customer purchases, product trends, and revenue insights using SQL.  
-🔹 Applied advanced queries to segment customers and forecast sales trends.  
+### **1. R - Classify Home Equity Loan Applicants**  
+📌 **Skills:** R coding | Data Preparation | Classification Models - logical reasoning, decision tree, random forest| Model Evaluation Functions  
+🔹  Transformed and standardized the dataset—handling missing values, removing duplicates, correcting inconsistencies, and normalizing formats—to ensure data integrity   
+     before applying data mining techniques. 
+🔹 Applied three (3) classification models to the home equity dataset to forecast loan defaulters.  
 🔹 **View the SQL script:** [Ecommerce_Analysis.sql](SQL_Projects/Ecommerce_Analysis.sql)  
 
 ---
@@ -30,14 +31,14 @@ I'm actively seeking **data analyst opportunities**, so feel free to explore my 
 📌 **Skills:** Tableau | Data Visualization | Payment Processing Analysis  
 🔹 Built an interactive dashboard to analyze **recurring payment errors** for Chase transactions.  
 🔹 Visualized success rates, error trends, and payment method performance over time.  
-🔹 **View the Tableau dashboard:** [Chase Error Analysis](Tableau_Dashboards/Chase_Error_Analysis.twb)  
 
 ---
 
-### **3. Python - Web Scraping with BeautifulSoup**  
-📌 **Skills:** Python | Web Scraping | Data Cleaning | Pandas  
-🔹 Extracted and structured product data from e-commerce websites.  
-🔹 Cleaned and stored data in a structured format for further analysis.  
+### **3. SQL,Python & PowerBI - Web Scraping & Data Visualization**  
+📌 **Skills:** Python | Web Scraping |SQL- Data Cleaning | PowerBI  
+🔹 Extracted and structured Top 100 uk Youtubers data from Youtube.  
+🔹 Cleaned and stored data in a structured format for further analysis using SQL. 
+🔹 Visualized the data in POWERBI for marketing insights for a company.  
 🔹 **View the code:** [Web Scraping.ipynb](Python_Projects/Web_Scraping.ipynb)  
 
 ---
@@ -46,22 +47,7 @@ I'm actively seeking **data analyst opportunities**, so feel free to explore my 
 📌 **Skills:** Alteryx | Data Preprocessing | Workflow Automation  
 🔹 Designed an **ETL pipeline** in Alteryx to automate data extraction and transformation.  
 🔹 Processed large datasets for business intelligence reporting.  
-🔹 **View the workflow:** [ETL_Workflow.yxmd](Alteryx_Workflows/ETL_Workflow.yxmd)  
 
 ---
 
-## 📂 Portfolio Structure
-This repository contains projects categorized by tools and technologies used:
 
-- 👋 Hi, I’m @YvetteAfriyie
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-YvetteAfriyie/YvetteAfriyie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

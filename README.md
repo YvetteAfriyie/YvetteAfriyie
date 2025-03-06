@@ -24,7 +24,7 @@ I'm actively seeking **data analyst opportunities**, so feel free to explore my 
 🔹  Transformed and standardized the dataset—handling missing values, removing duplicates, correcting inconsistencies, and normalizing formats—to ensure data integrity   
      before applying data mining techniques. 
 🔹 Applied three (3) classification models to the home equity dataset to forecast loan defaulters.  
-🔹 **View the SQL script:** [Ecommerce_Analysis.sql](SQL_Projects/Ecommerce_Analysis.sql)  
+🔹 **View the R script:** [Ecommerce_Analysis.sql](SQL_Projects/Ecommerce_Analysis.sql)  
 
 ---
 
@@ -40,8 +40,7 @@ I'm actively seeking **data analyst opportunities**, so feel free to explore my 
 🔹 Extracted and structured Top 100 uk Youtubers data from Youtube.  
 🔹 Cleaned and stored data in a structured format for further analysis using SQL. 
 🔹 Visualized the data in POWERBI for marketing insights for a company.  
-🔹 **View the code:** [Web Scraping.ipynb](Python_Projects/Web_Scraping.ipynb)  
-
+🔹 **View the code:** 
 ---
 
 ### **4. Alteryx - Automated ETL Workflow**  

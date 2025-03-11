@@ -7,17 +7,17 @@ Hello! I'm a data analyst passionate about turning raw data into actionable insi
 I created this portfolio to showcase my projects in **data science and data visualization**, demonstrating my ability to work with structured and unstructured data. My goal is to provide **data-driven solutions** that help businesses make informed decisions.
 
 💡 **What I Do:**  
-- 📊 Data Cleaning & Wrangling (SQL, R,Python, Alteryx)  
-- 📈 Data Visualization (Tableau, PowerBI)  
-- 🔍 Exploratory Data Analysis (EDA) & Insights Generation  
-- 🚀 Automating Workflows (Python, Alteryx, AWS)  
-- 💾 Database Querying & Optimization (SQL)  
+-  Data Cleaning & Wrangling (SQL, R,Python, Alteryx)  
+-  Data Visualization (Tableau, PowerBI)  
+-  Exploratory Data Analysis (EDA) & Insights Generation  
+-  Automating Workflows (Python, Alteryx, AWS)  
+-  Database Querying & Optimization (SQL)  
 
 I'm actively seeking **data analyst opportunities**, so feel free to explore my projects and connect with me!
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 ### **1. R - Classify Home Equity Loan Applicants**  
 📌 **Skills:** R coding | Data Preparation | Classification Models - logical reasoning, decision tree, random forest| Model Evaluation Functions  

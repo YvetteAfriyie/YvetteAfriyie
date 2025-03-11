@@ -35,13 +35,7 @@ I'm actively seeking **data analyst opportunities**, so feel free to explore my 
 
 ---
 
-### **3. SQL,Python & PowerBI - Web Scraping & Data Visualization**  
-📌 **Skills:** Python | Web Scraping |SQL- Data Cleaning | PowerBI  
-🔹 Extracted and structured Top 100 uk Youtubers data from Youtube.  
-🔹 Cleaned and stored data in a structured format for further analysis using SQL. 
-🔹 Visualized the data in POWERBI for marketing insights for a company.  
-🔹 **View the code:** 
----
+
 
 ### **4. Alteryx - Automated ETL Workflow**  
 📌 **Skills:** Alteryx | Data Preprocessing | Workflow Automation  
